@@ -12,7 +12,7 @@ humantime: "09:00-16:30"    # human-readable times for the workshop (e.g., "9:00
 startdate: 2019-10-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Niall Beard", "David Perez-Suarez"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Håvard Eilertsen"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ingrid.heggland@ntnu.no"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2019-10-21-swc-ntnu            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -69,6 +69,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+
+This Software Carpentry workshop is free and you can register [here](https://www.kurspaamelding.no/ntnu-ub/index.php?kursid=250&dato=689&paamelding=ja&groupid=278).
 
 <h2 id="general">General Information</h2>
 
